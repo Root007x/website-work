@@ -70,7 +70,7 @@ h1 {
   background-position: left;
 }
 
-.footer {
+footer h6 {
   text-align: center;
-  color: gray;
+  margin-top: 50px;
 }
